@@ -1,3 +1,3 @@
 def classFactory(iface):
-    from .plugin import TopografiaPlugin
+    from .topografia import TopografiaPlugin
     return TopografiaPlugin(iface)
