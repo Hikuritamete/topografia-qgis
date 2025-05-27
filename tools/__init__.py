@@ -1,1 +1,0 @@
-# Vacío - solo necesario para que Python trate el directorio como un paquete
